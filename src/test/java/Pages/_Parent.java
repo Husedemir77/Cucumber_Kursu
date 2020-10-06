@@ -17,7 +17,7 @@ public class _Parent {
      */
 
     WebDriver driver;
-    WebDriverWait wait;
+    WebDriverWait wait;  //deneme für github
 
     public _Parent(){
         driver = Driver.getDriver();
